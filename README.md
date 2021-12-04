@@ -10,9 +10,13 @@
 6. 예상결과: 변수들이 유의미한 영향을 미칠 것이다.
 7. 의의: 모기지수를 예측하여 다음날 계획에 참고, 모기관련 전염병 예방
 
-![image](https://user-images.githubusercontent.com/87663692/144703155-739b59aa-55e7-456f-ad9e-15d89afc026e.png)
-![image](https://user-images.githubusercontent.com/87663692/144703159-f75b5814-24a8-41c2-839f-279551110fe0.png)
-![image](https://user-images.githubusercontent.com/87663692/144703161-325dc5e7-ff67-4fe2-8e49-88a93e2e31ec.png)
-![image](https://user-images.githubusercontent.com/87663692/144703166-641dc7c4-ec49-4f42-a5e2-0467387cb5aa.png)
-![image](https://user-images.githubusercontent.com/87663692/144703169-6dec9b76-bb0a-4a41-b399-b409bbba212b.png)
-
+<img src="https://user-images.githubusercontent.com/87663692/144703155-739b59aa-55e7-456f-ad9e-15d89afc026e.png"
+     width="550" height="300"/>
+<img src="https://user-images.githubusercontent.com/87663692/144703159-f75b5814-24a8-41c2-839f-279551110fe0.png"
+     width="550" height="300"/>
+<img src="https://user-images.githubusercontent.com/87663692/144703161-325dc5e7-ff67-4fe2-8e49-88a93e2e31ec.png"
+     width="550" height="300"/>
+<img src="https://user-images.githubusercontent.com/87663692/144703166-641dc7c4-ec49-4f42-a5e2-0467387cb5aa.png"
+     width="550" height="300"/>
+<img src="https://user-images.githubusercontent.com/87663692/144703169-6dec9b76-bb0a-4a41-b399-b409bbba212b.png"
+     width="550" height="300"/
